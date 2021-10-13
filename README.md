@@ -1,7 +1,7 @@
 # caddy-lego-deprecated
 Prebuilt caddy with lego-deprecated
 
-# [Install]((https://caddyserver.com/docs/install#debian-ubuntu-raspbian)) default caddy
+# [Install](https://caddyserver.com/docs/install#debian-ubuntu-raspbian) default caddy
 ```
 sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https
 curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key' | sudo tee /etc/apt/trusted.gpg.d/caddy-stable.asc
